@@ -40,9 +40,6 @@ After that we saved the DataFrame as CSV file and we store it using S3 cloud sto
 ![image](https://github.com/wajdha/air-traffic-Poland/assets/103352403/fedec3ec-2aa3-455b-9e14-17eebecdb126)
 
 
-
-
-
 ## Conclusion
 The Air Traffic Poland project successfully developed an analytical platform to monitor air traffic in Poland using cloud technologies, specifically leveraging the capabilities of Amazon Web Services (AWS). By integrating the Aviationstack API, the platform obtained real-time flight data for major airports in Poland, enabling comprehensive analysis.
 
